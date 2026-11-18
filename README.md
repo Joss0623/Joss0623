@@ -1,10 +1,10 @@
 # Simengxu Qiao · 乔斯梦旭
 
-🎓 Doctoral student in Control Science and Engineering at Zhejiang University.
+🎓 Doctoral student in Control Science and Engineering at [Zhejiang University](https://www.zju.edu.cn/english/).
 
 My research focuses on **structured temporal representations**, **multivariate dynamics**, and **knowledge-guided forecasting** for industrial and biopharmaceutical processes.
 
-[🌐 Academic homepage](https://joss0623.github.io/) · [📚 Research & publications](https://joss0623.github.io/#publications)
+[🌐 Academic homepage](https://joss0623.github.io/) · [📚 Research & publications](https://joss0623.github.io/#publications) · [🟢 ORCID](https://orcid.org/0009-0007-3082-9708)
 
 ## 🔬 Research projects
 
